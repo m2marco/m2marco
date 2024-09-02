@@ -17,7 +17,7 @@
 
 ## 📫 **Contato:**
 
-- **LinkedIn:** [Meu LinkedIn](lhttps://www.linkedin.com/in/m2marco)
+- **LinkedIn:** [Meu LinkedIn](lhttps://www.linkedin.com/in/m2marco/)
 - **E-mail:** [marcoabreualexandre@gmail.com](mailto:marcoabreualexandre@gmail.com)
 - **Portfólio:** [Meu portfolio](https://m2marco.github.io/portfloio-m2/)
 
